@@ -140,3 +140,4 @@ main{max-width:74rem;margin:0 auto;padding:0 1.25rem}
 .disc-wrap.has-cover .disc-n{top:auto;bottom:62%;left:auto;right:8%;width:auto;font-size:clamp(1.2rem,3vw,1.8rem)}
 @keyframes slide{from{transform:translateX(-30%) rotate(-90deg)}to{transform:none}}
 @media (prefers-reduced-motion:reduce){.disc-wrap.has-cover .disc{animation:none}}
+.pager em{display:block;font-style:normal;font-weight:400;opacity:.75;font-size:.9rem;margin-top:.15rem}
